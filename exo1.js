@@ -1,4 +1,3 @@
-let time = prompt("Votre temps en heure");
-let result = time * 3600;
-
 console.log(result + " seconde(s)");
+let c = (v * 9) / 5 + 32;
+console.log(c + " Fahrenheit");
